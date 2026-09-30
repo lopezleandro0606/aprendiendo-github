@@ -1,2 +1,5 @@
-# aprendiendo-github
-Mi primer proyecto para aprender GitHub
+# Aprendiendo GitHub
+
+Este es mi primer repositorio.
+
+Estoy aprendiendo a usar GitHub directamente desde la web.
