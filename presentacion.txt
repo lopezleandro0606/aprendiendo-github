@@ -1,3 +1,4 @@
 Mi nombre es Leandro.
 Estoy aprendiendo a usar Github desde la web.
 Este es mi primer proyrecto
+Mi objetivo es aprender a trabajar con proyectos usando github.
